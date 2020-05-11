@@ -1,0 +1,564 @@
+{
+  "feeds" : {
+    "-L5yXEd6Cj1rzpoZ7_9U" : {
+      "comment" : "Ten zestaw był ciężki, ale mój mózg jest jeszcze cięższy ;)",
+      "image" : "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/rola2-292076.jpg",
+      "points" : 298,
+      "quiz" : "Java Trudny",
+      "respects" : {
+        "Gz0fw0KUohd8d3iGBV35qy59okT2" : 1,
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 0
+      },
+      "timeMillis" : 1519580104609,
+      "uid" : "Gz0fw0K6ohd8d3iGBV35qy59okT2",
+      "user" : "Asia Zdunek"
+    },
+    "-L5yZROasezukz5gDFHi" : {
+      "comment" : "Co to dla mnie ;) Może like?",
+      "image" : "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/rola2-292076.jpg",
+      "points" : 349,
+      "quiz" : "Kotlin Łatwy",
+      "respects" : {
+        "Gz0fw0KUohd8d3iGBV35qy59okT2" : 1,
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 0
+      },
+      "timeMillis" : 1519320681144,
+      "uid" : "Gz0fw0K6ohd8d3iGBV35qy59okT2",
+      "user" : "Asia Zdunek"
+    },
+    "-L5zgf-_65YGB-koROtU" : {
+      "comment" : "",
+      "image" : "https://cdn.stocksnap.io/img-thumbs/280h/FIGLTLWW8E.jpg",
+      "points" : 223,
+      "quiz" : "Java Średni",
+      "respects" : {
+        "Gz0fw0KUohd8d3iGBV35qy59okT2" : 1,
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 1
+      },
+      "timeMillis" : 1519339615123,
+      "uid" : "Gz0fw0KUo6d8d3iGBV35qy59okT2",
+      "user" : "Zuzanna Piotracz"
+    },
+    "-L60kE0eFvO4nMIsk9PW" : {
+      "comment" : "Takie mi się trafiły pytania!",
+      "image" : "https://cdn.stocksnap.io/img-thumbs/280h/SMJLMCZMTN.jpg",
+      "points" : 78,
+      "quiz" : "Android Średni",
+      "respects" : {
+        "Gz0fw0KUohd8d3iGBV35qy59okT2" : 1,
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 0
+      },
+      "timeMillis" : 1519374103831,
+      "uid" : "cfqHg1j9ppNdhhF2sylZbZTr3WH3",
+      "user" : "Max Haoung"
+    },
+    "-L60rXDwfamMTC7v57m4" : {
+      "comment" : "",
+      "image" : "https://cdn.stocksnap.io/img-thumbs/280h/WEBH0ZIETR.jpg",
+      "points" : 210,
+      "quiz" : "Java Średni",
+      "respects" : {
+        "Gz0fw0KUohd8d3iGBV35qy59okT2" : 1,
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 0
+      },
+      "timeMillis" : 1519376017192,
+      "uid" : "cfqHg1jgppNdhhF2s2lZbZTr3WH3",
+      "user" : "Tomasz Mocny"
+    },
+    "-L6ESWtYWOE_L80Nkw8x" : {
+      "comment" : "Tak to jest, jak się samemu układało pytania ;P",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 456,
+      "quiz" : "Android Trudny",
+      "respects" : {
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 1
+      },
+      "timeMillis" : 1519604081055,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    },
+    "-L6EWpmR63z3uXgWek2O" : {
+      "comment" : "",
+      "image" : "https://cdn.stocksnap.io/img-thumbs/280h/WEBH0ZIETR.jpg",
+      "points" : 180,
+      "quiz" : "Android Łatwy",
+      "respects" : {
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 0
+      },
+      "timeMillis" : 1519605211099,
+      "uid" : "cfqHg1jgppNdhhF2s2lZbZTr3WH3",
+      "user" : "Tomasz Mocny"
+    },
+    "-L6EwOo0dhFlScLMK7ns" : {
+      "comment" : "Pobijecie ten wynik?",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 335,
+      "quiz" : "Android Średni",
+      "respects" : {
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 1
+      },
+      "timeMillis" : 1519612174426,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    },
+    "-L6EzXMR30kkqzOgeAIP" : {
+      "comment" : "Co raz to lepiej! :)",
+      "image" : "https://cdn.images.express.co.uk/img/dynamic/78/590x/secondary/rola2-292076.jpg",
+      "points" : 225,
+      "quiz" : "Android Średni",
+      "respects" : {
+        "Gz0fw0KUohd8d3iGBV35qy59okT2" : 1,
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 1
+      },
+      "timeMillis" : 1519612995866,
+      "uid" : "Gz0fw0K6ohd8d3iGBV35qy59okT2",
+      "user" : "Asia Zdunek"
+    },
+    "-L6FB72B8f0b73unmLbE" : {
+      "comment" : "Jak na strzelnicy... ",
+      "image" : "https://cdn.stocksnap.io/img-thumbs/280h/JM42JRU2UB.jpg",
+      "points" : 97,
+      "quiz" : "Android Łatwy",
+      "respects" : {
+        "Gz0fw0KUohd8d3iGBV35qy59okT2" : 1,
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 0
+      },
+      "timeMillis" : 1519616295569,
+      "uid" : "Gz0fw0KUohg8d3iGBV35qy59okT2",
+      "user" : "Błażej Rogal"
+    },
+    "-L6ZEN3TCmGgBGQdCuqS" : {
+      "comment" : "",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 39,
+      "quiz" : "Kotlin Łatwy",
+      "respects" : {
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 1
+      },
+      "timeMillis" : 1519952690450,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    },
+    "-L6ZogHVLiPiFbgidcFm" : {
+      "comment" : "fghjg",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 195,
+      "quiz" : "Android Łatwy",
+      "respects" : {
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 1
+      },
+      "timeMillis" : 1519962472236,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    },
+    "-L6iKc5KcpP0pT7h7k8X" : {
+      "comment" : "fajny quiZik, spoko",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 390,
+      "quiz" : "Kotlin Średni",
+      "respects" : {
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 1
+      },
+      "timeMillis" : 1520122103046,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    },
+    "-LFSllnJOYaNd2vOQLD4" : {
+      "comment" : "bylo ok",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 78,
+      "quiz" : "Android Łatwy",
+      "respects" : {
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 1
+      },
+      "timeMillis" : 1529507944982,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    },
+    "-LFSqoKQLwGznwvEkt7e" : {
+      "comment" : "",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 78,
+      "quiz" : "Android Łatwy",
+      "timeMillis" : 1529509266077,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    },
+    "-LFTLW5eEBWs01JjmAts" : {
+      "comment" : "",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 78,
+      "quiz" : "Android Łatwy",
+      "timeMillis" : 1529517575917,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    },
+    "-LFTTjH6W8Ay9pFaMBOg" : {
+      "comment" : "",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 39,
+      "quiz" : "Android Łatwy",
+      "timeMillis" : 1529519731165,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    },
+    "-LFg7EbieS2VfCrclykW" : {
+      "comment" : "",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 39,
+      "quiz" : "Android Łatwy",
+      "respects" : {
+        "cfqHg1j9ppNdhhF2s2lZbZTr3WH3" : 1
+      },
+      "timeMillis" : 1529748718486,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    },
+    "-LFgL-k_Gmo4zyweQrn3" : {
+      "comment" : "fhifxcb",
+      "image" : "https://lh4.googleusercontent.com/-Slh05aqW1g4/AAAAAAAAAAI/AAAAAAAAA5g/apvckvB-Luo/s96-c/photo.jpg",
+      "points" : 39,
+      "quiz" : "Java Łatwy",
+      "timeMillis" : 1529752327660,
+      "uid" : "cfqHg1j9ppNdhhF2s2lZbZTr3WH3",
+      "user" : "Arkadiusz Wrzos"
+    }
+  },
+  "questions" : {
+    "android1" : {
+      "quest1" : {
+        "ask" : "Aktywność jest rozumiana jako ekran, który jest odpowiedzialny za ściśle określoną akcję w aplikacji (np. logowanie, edycja profilu itp.). To jest prawda. Co natomiast jest nieprawdą?",
+        "false1" : "Służy do interakcji z użytkownikiem, prezentuje okno z interaktywnym interfejsem.",
+        "false2" : "Zazwyczaj jest pełnoekranowa, ale bywają też pływające.",
+        "positive" : "Interfejs ustawia się funkcją setContentInterface()."
+      },
+      "quest2" : {
+        "ask" : "Widoczne części interfejsu mają swoje cykle życia. Aktywność też ma swój cykl życia, który zmienia się w związku z:",
+        "false1" : "Tym jak długo aplikacja jest w sklepie Google Play.",
+        "false2" : "Tym jak długo aplikacja nie jest poddawana aktualizacji.",
+        "positive" : "Widocznością okna(nawigacja po aplikacji) i systemami zarządzania pamięcią."
+      },
+      "quest3" : {
+        "ask" : "Aktywności są odkładane na stos aktywności, tzn. jeśli przechodzimy do nowego okna, jest ono kładzione na stare - zasłania je. Kto zarządza tym stosem?",
+        "false1" : "Użytkownik aplikacji.",
+        "false2" : "Developer piszący implementacje.",
+        "positive" : "System operacyjny."
+      },
+      "quest4" : {
+        "ask" : "Jednocześnie może być tylko jedna aktywność w stanie wykonywania - to ta prezentowana na pierwszym planie ekranu. W jakim stanie jest aktywność przesłonięta, ale jeszcze widoczna?",
+        "false1" : "Zatrzymana(callback onStop/onStart)",
+        "false2" : "Niepierwszoplanowa(callback onBackground/onForeground)",
+        "positive" : "Zapauzowana(callback onPause/onResume)"
+      },
+      "quest5" : {
+        "ask" : "Co się dzieje z aktywnością, kiedy przestaje być już widoczna?",
+        "false1" : "Jest zawsze zabijana na rzecz oszczędzania pamięci.",
+        "false2" : "Przechodzi w stan zapauzowania(callback onPause/onResume)",
+        "positive" : "Przechodzi w stan zatrzymania(callback onStop/onStart)"
+      }
+    },
+    "android2" : {
+      "quest1" : {
+        "ask" : "Czym jest NDK? Do czego służy?",
+        "false1" : "Naive Domain Kit - pozwala uzyskać dostęp do niskopoziomowych rozwiązań sprzętowych, pomijając ochronę zabezpieczeń systemowych mechanizmów.",
+        "false2" : "No-Development Kit - narzędzie zabezpiecza nasz kod przed innymi programistami i inzynierią wsteczną.",
+        "positive" : "Native Development Kit - pozwala użyć kod c/c++ w aplikacji Androidowej"
+      },
+      "quest2" : {
+        "ask" : "ANR, czyli Application Not Responding (aplikacja nie odpowiada), jest dialogiem wyświetlanym, gdy czas wykonania funkcji programu zbyt długo blokuje interfejs użytkownika. Co nie pomoże w unikaniu go?",
+        "false1" : "Wykonywanie metod blokujących w tle.",
+        "false2" : "Użycie opcji StrictMode do rozpoznania wąskich gardeł i odwołań do wątku UI.",
+        "positive" : "Ustawienie opcji NON-BLOCKING na całym wątku UI."
+      },
+      "quest3" : {
+        "ask" : "Wstrzykiwanie zależności to wzorzec projektowy usuwający bezpośrednie zależności na rzecz architektury typu plug-in. Niektóre biblioteki są szybsze, dlaczego?",
+        "false1" : "Lekkie, nieskomplikowane biblioteki, jak Guice nie dostarczają tyle komplikujących funkcjonalności, są szybsze.",
+        "false2" : "Obsługujące refleksję, np. RoboGuice. Nie dogenerowują dużej ilości kodu jak adnotowane, jest mniej instrukcji procesora.",
+        "positive" : "Obsługujące adnotacje czasu kompilacji, np.Butterknife i Dagger. Omijają narzut obliczeniowy czasu wykonania."
+      },
+      "quest4" : {
+        "ask" : "Android dostarcza kilka rozwiązań do zadań w tle, np. AsyncTask, Handler i inne. Czym kierowałbyś się decydując pomiędzy tymi dwoma?",
+        "false1" : "Nie ma znaczenia, w skutkach są identyczne - różnią się tylko sposobem przekazywania danych w obie strony.",
+        "false2" : "Jeśli chcę wykonać coś asynchronicznie, biorę AsyncTask, jeśli oddelegować obsługę Handler.",
+        "positive" : "Jeśli wykonuję coś w tle i chcę aktualizować na tej podstawie UI, biorę AsyncTask. Jeśli nie interesuje mnie UI, Handler."
+      },
+      "quest5" : {
+        "ask" : "Czym jest StrictMode w opcjach developerskich(tryb ścisły)?",
+        "false1" : "Pomaga znaleść wąskie gardła w czasie wykonania aplikacji, ustawia niski, ściśle określony czas procesora dla aplikacji.",
+        "false2" : "Obsługuje aplikacje w czystym środowisku AOSP. Ignoruje nakładki frameworka dodawane przez producenta urządzenia.",
+        "positive" : "Pozwala namierzyć dostępy do wątku UI z procesów które nie powinny tego robić(internet/baza danych itd.)"
+      }
+    },
+    "android3" : {
+      "quest1" : {
+        "ask" : "Proguard, narzędzie do optymalizacji i zaciemniania kodu. Przemysłowe rozwiązania często przechodzą na bardziej zaawansowanego DexGuarda, jakie mogą być powody?",
+        "false1" : "Proguard jest po prostu prymitywny i zapewnia obronę jedynie przed początkującymi programistami.",
+        "false2" : "Proguard jest płatny dla zastosowań przemysłowych. Dexguard ma korzystniejsze umowy licencyjne(płaci się za aplikację, nie za liczbę stanowisk).",
+        "positive" : "Np. ProGuard nie obfuskuje stringów w aplikacji. Są dalej widoczne po zaciemnieniu."
+      },
+      "quest2" : {
+        "ask" : "Co robi metoda 'Class.forName'? ",
+        "false1" : "Pozwala definiować zaciemnioną nazwę klasy, tak by nie zmieniały się modele danych pomiędzy aktualizacjami aplikacji.",
+        "false2" : "Zwraca nazwę klasy, potrzebne przy mechanizmach refleksji.",
+        "positive" : "Zaczytuje klasę podaną w parametrze dynamicznie w czasie wykonania. "
+      },
+      "quest3" : {
+        "ask" : "Nawet jeśli kod aplikacji był zaciemniony, np. ProGuardem, są narzędzia które pozwalają na inżynierię wsteczną kodu źródłowego. Wymień kilka z nich.",
+        "false1" : "BadAssAndroid, DalvikReverse, ARTCracker",
+        "false2" : "JNI, NDK, SMP",
+        "positive" : "ApkTool, Dex2jar, Java Decompiler i inne."
+      },
+      "quest4" : {
+        "ask" : "Jak Int, Float i Double wpływają na wydajność?",
+        "false1" : "Wydajnościowo to nie ma znaczenia, dopóki nie pojawią się duże ilości zmiennych i zacznie brakować pamięci.",
+        "false2" : "Zasadniczo Double ma średnio 64 razy większy narzut przeliczeniowy od Float, natomiast Float dwa razy większy od Int.",
+        "positive" : "Generalnie Float jest dwa razy wolniejszy od Inta. Double i Float wypadają podobnie, ale Double zabiera więce miejsca."
+      },
+      "quest5" : {
+        "ask" : "Co się stanie jeśli statyczna zmienna wskazuje na kontekst aktywności?",
+        "false1" : "Nic o ile aktywność jest pełnoekranowa.",
+        "false2" : "Aktywność nigdy nie będzie mogła zniknąć.",
+        "positive" : "Najprawdopodobniej wystąpi wyciek pamięci gdy aktywność zniknie."
+      }
+    },
+    "java1" : {
+      "quest1" : {
+        "ask" : "JVM, czyli Java Virtual Machine (maszyna wirtualna javy) jest abstrakcyjną maszyną(cyfrową) która dostarcza środowiska wykonania kodu bajtowego Javy. Gdzie może być dostępna JVM?",
+        "false1" : "Na komputerach klasy osobistej, serwerach i smartfonach.",
+        "false2" : "Na wszystkich urządzeniach z procesorem.",
+        "positive" : "Na różnych platformach hardware/software. Implementacja JVM jest specjalna dla platformy."
+      },
+      "quest2" : {
+        "ask" : "JRE, czyli Java Runtime Environment(środowisko uruchomieniowe javy) to:",
+        "false1" : "Nie istnieje coś takiego, Jest tylko JVM i JDK.",
+        "false2" : "Zespół narzędzi do programowania w Javie.",
+        "positive" : "Implementacja JVM."
+      },
+      "quest3" : {
+        "ask" : "JDK, czyli Java Development Kit(zestaw deweloperski javy) to:",
+        "false1" : "Nie istnieje coś takiego, Jest tylko JVM i JRE.",
+        "false2" : "Podzbiór JRE, czyli środowiska uruchomieniowego",
+        "positive" : "Zespół narzędzi do programowania w Javie połączony z JRE."
+      },
+      "quest4" : {
+        "ask" : "Czym jest String w Javie?",
+        "false1" : "To zmienna do przechowywania słów.",
+        "false2" : "To typ prosty przechowujący znak.",
+        "positive" : "To klasa zdefiniowana na potrzeby przechowywania ciągów znaków (tekstu)."
+      },
+      "quest5" : {
+        "ask" : "Ile obiektów zostanie utworzonych przez ten kod: 'String a = ”dev”; String b = ”dev”;'?",
+        "false1" : "Cztery: a,b,new String(”dev”) i new String(”dev”)",
+        "false2" : "Dwa obiekty, a i b",
+        "positive" : "Jeden obiekt, drugi będzie pobrany z puli lokalnej obiektów String."
+      }
+    },
+    "java2" : {
+      "quest1" : {
+        "ask" : "Co oznacza zapis listy argumentów funkcji: (int arg0, int...arg1)",
+        "false1" : "Nie jest to prawidłowy zapis.",
+        "false2" : "Jest to niedokończony kod, piszemy tak gdy jeszcze nie wiemy co będziemy potrzebować.",
+        "positive" : "Jest to metoda o zmiennej liczbie argumentów, wszystkie kolejne po arg0 będa dostępne w tablicy arg1."
+      },
+      "quest2" : {
+        "ask" : "Enum, to typ wyliczeniowy. Pozwala zdefiniować zbiór możliwych wartości. Czy mogą one przechowywać inne wartości?",
+        "false1" : "Nie mogą, typ wyliczeniowy to po prostu mapowanie stałej na integer, używany dla czytelności.",
+        "false2" : "Mogą, ale to jest silnie niezalecane rozwiązanie, dostępne jedynie z powodów technicznych.",
+        "positive" : "Tak, mogą mieć własny konstruktor i trzymać powiązaną wartość. Funkcje pozwalają się do niej odwoływać. "
+      },
+      "quest3" : {
+        "ask" : "Czym jest wykonanie polimorficzne?",
+        "false1" : "W zależności od tego na jaki typ zrzutujemy obiekt, to taką implementację wykona.",
+        "false2" : "Wielopostaciowość to możliwość użycia różnych klas do tego samego zadania.",
+        "positive" : "Wieloformatowość obiektu to cecha pozwalająca na wykonanie implementacji ze względu na rzeczywisty typ obiektu, nie zadeklarowany."
+      },
+      "quest4" : {
+        "ask" : "Czym jest hermetyzacja?",
+        "false1" : "Jest zapewnieniem, że nikt w żaden sposób nie dostanie się do danych naszego procesu.",
+        "false2" : "Jest sposobem na ukrycie niepotrzebnych pól i metod klasy.",
+        "positive" : "Technika ukrywania danych i metod skłądowych obiektów danej klasy tak, by uodpornić model na błędy ingerencji zewnętrznej."
+      },
+      "quest5" : {
+        "ask" : "Czym jest interfejs?",
+        "false1" : "Jest klasą w której nie mozna definiować ciał metod.",
+        "false2" : "Jest panelem pozwalającym na zmianę ustawień działania programu.",
+        "positive" : "Jest typem referencyjnym pozwalającym na zapewnienie funkcjonalności poprzez segregację."
+      }
+    },
+    "java3" : {
+      "quest1" : {
+        "ask" : "Która klasa jest używana do tworzenia wątków?",
+        "false1" : "Rozszerzająca Runnable",
+        "false2" : "Runnable",
+        "positive" : "Thread"
+      },
+      "quest2" : {
+        "ask" : "Która funkcja ze zdefiniowanej klasy Thread jest używana do sprawdzenia czy aktualny wątek ciągle pracuje?",
+        "false1" : "join()",
+        "false2" : "isRunning()",
+        "positive" : "isAlive()"
+      },
+      "quest3" : {
+        "ask" : "Czy można nadpisać prywatną lub statyczną metodę w Javie?",
+        "false1" : "Można, należy skorzystać z mechanizmu refleksji.",
+        "false2" : "Można, wystarczy w klasie pochodnej stworzyć podobą metodę z tymi samymi argumentami i nie oznaczać @Override.",
+        "positive" : "Nie można, na tym polega prywatność i statyczność."
+      },
+      "quest4" : {
+        "ask" : "Co zwróci wyrażenie 1.0/0.0?",
+        "false1" : "Wyrzuci ZeroDividingException",
+        "false2" : "Wyrzuci ArithmeticException",
+        "positive" : "Zwróci Double.INFINITY"
+      },
+      "quest5" : {
+        "ask" : "Jaka jest podstawowa różnica pomiędzy StringBuffer i StringBuilder?",
+        "false1" : "StringBuilder doszedł w JDK 1.5, StringBuffer w JDK 1.6 i jest zamiennikiem.",
+        "false2" : "StringBuffer ma wystawione metody capacity() i append().",
+        "positive" : "Metody StringBuffer np. lenght(), capacity() itp. są synchronizowane, w StringBuilderze nie."
+      }
+    },
+    "kotlin1" : {
+      "quest1" : {
+        "ask" : "Język Kotlin jest interoperacyjny. To znaczy, że może współpracować w jednym projekcie Javowym lub Androidowym nie gryząc się z dotychczasowym kodem. Co nie jest prawdą?",
+        "false1" : "Kotlinowe funkcjonalności można używać w Javie",
+        "false2" : "Javowe funkcjonalności można używać w Kotlinie",
+        "positive" : "Ze względu na interoperacyjność, słowa kluczowe Javy są zastrzeżone również w Kotlinie(np.dla nazw zmiennych)."
+      },
+      "quest2" : {
+        "ask" : "Kod Kotlinowy czasem nie ma średników. Od czego to zależy?",
+        "false1" : "Muszą występować gdy klasa Kotlinowa korzysta z klasy Javowej.",
+        "false2" : "Tylko instrukcje w funkcjach wymagają średników, bez tego nie da się oddzielić jednych od drugich.",
+        "positive" : "Średniki są opcjonalne. Można ich używać, ale nie trzeba. Rekomenduje się zarzucenie średników."
+      },
+      "quest3" : {
+        "ask" : "Co znaczy wyrażenie ”fun sum(a: Int, b: Int) = a + b” ? ",
+        "false1" : "To wyrażenie spowoduje błąd czasu kompilacji.",
+        "false2" : "Definiuje propercję sum, która jest wyliczana z innych propercji.",
+        "positive" : "To zwykła funkcja zwracająca sumę argumentów."
+      },
+      "quest4" : {
+        "ask" : "W jakich okoliczcnościach można pominąć typ zwracany w funkcji?",
+        "false1" : "W kotlinie nie podaje się zwracanych typów, są wnioskowane ze statycznego typowania.",
+        "false2" : "Tylko jeśli funkcja nic nie zwraca(javowy void).",
+        "positive" : "Np. jeśli używamy wyrażenia trywialnego (fun()=wyrażenie) i wyrażenie bezpośrednio określa typ."
+      },
+      "quest5" : {
+        "ask" : "Jaka jest różnica między var a val?",
+        "false1" : "Val musi być zainicjalizowany od razu lub w bloku inicjalizacyjnym, var nie koniecznie.",
+        "false2" : "Val pozwala zmieniać wartości, natomiast var na to nie pozwala.",
+        "positive" : "Val, czyli Value jest wartością niezmienną po zainicjalizowaniu. Var, czyli Variable może być reinicjalizowana."
+      }
+    },
+    "kotlin2" : {
+      "quest1" : {
+        "ask" : "Co zrobi taki kod: 'foo()()' ?",
+        "false1" : "Wywoła funkcję foo dwukrotnie.",
+        "false2" : "To się nie skompiluje.",
+        "positive" : "Wykona funkcję zwróconą przez funkcję foo()."
+      },
+      "quest2" : {
+        "ask" : "Czy taki kod '1 doUntil 5' skompiluje się? Dlaczego?",
+        "false1" : "Nie wykona się, funkcje nalezy wykonywac po kropce.",
+        "false2" : "Wykonałoby się, ale należy zadeklarowac taką funkcję infix.",
+        "positive" : "Tak, doUntil jest zadeklarowaną funkcją rozszerzającą Int."
+      },
+      "quest3" : {
+        "ask" : "Co znaczy wyrażenie if(x !in 0..5)",
+        "false1" : "Sprawdza czy x nie znajduje się w zakresie 1 do 4.",
+        "false2" : "Sprawdza czy x znajduje się w zakresie 0 do 5.",
+        "positive" : "Sprawdza czy x nie znajduje się w zakresie 0 do 5."
+      },
+      "quest4" : {
+        "ask" : "Jak wyjąć z listy liczb wszystkie wartości dodatnie?",
+        "false1" : "list.splitBy {it>0}[1]",
+        "false2" : "list.filterBy(it>0)",
+        "positive" : "list.filter { it > 0 }"
+      },
+      "quest5" : {
+        "ask" : "Co zrobi takie wyrażenie: for ((k, v) in map) {}",
+        "false1" : "Nie można tak zapisać, nie zbuduje się.",
+        "false2" : "Iteruje po kluczach mapy a nastęnie po jej wartościach.",
+        "positive" : "Destrukturyzuje mapę na klucze i wartości w pętli foreach."
+      }
+    },
+    "kotlin3" : {
+      "quest1" : {
+        "ask" : "W kotlinie wystepuje możliwość automatycznego zastąpienia funkcji rekursywnej iteracją. Jakie oznaczenie funkcji na to pozwala?",
+        "false1" : "Crossinline - w czasie kompilacji następuje niwelacja lokalnych wywołań i inlinowanie rekursji w iterację.",
+        "false2" : "Reified - warunkowe wstawienie inline zastępujące wywołania na siebie.",
+        "positive" : "Tailrec - oznaczenie funkcji rekurencją ogonową."
+      },
+      "quest2" : {
+        "ask" : "Czym się różnią korutyny(coroutines) blokujące od wstrzymujących?",
+        "false1" : "Istnieją jedynie korutyny blokujące, chodzi o to, że w pewnym momencie blokuje się wykonanie jednej na rzecz drugiej(imitacja współbieżności).",
+        "false2" : "Korutyny blokujące pozwalają na wykonanie jednej w tym samym czasie(w ramach grupy korutyn). Wstrzymujące działają jednocześnie, niezależnie od grupy.",
+        "positive" : "Korutyny mogą być wstrzymane bez blokowania wątku. To ich główna zaleta, korutyny są własnie wstrzymywane."
+      },
+      "quest3" : {
+        "ask" : "Jak działa delegat lazy?",
+        "false1" : "Lazy pozwala inicjalizować wartości(val) dopiero po wykonaniu konstruktora.",
+        "false2" : "Lazy pozwala inicjalizować wartości(val) na samym końcu inicjalizacji klasy. Zapamiętuje wartość inicjalizacji.",
+        "positive" : "Lazy pozwala inicjalizować wartości(val) w momencie ich pierwszego wywołania. Zapamiętuje wartość inicjalizacji."
+      },
+      "quest4" : {
+        "ask" : "Co robi takie wyrażenie value?.let {}",
+        "false1" : "Nie zadziała ze znakiem zapytania-błąd kompilacji.",
+        "false2" : "Wykonuje się, jeśli metoda let w value zwróci true.",
+        "positive" : "Wykonuje jeśli value nie jest nullem."
+      },
+      "quest5" : {
+        "ask" : "Ile obiektów companion mogą mieć w sumie wszystkie instancje konkretnej klasy?",
+        "false1" : "Nieskończenie wiele, każdy obiekt ma dostęp do swojgo companiona.",
+        "false2" : "Tyle, ile klas ona rozszerza.",
+        "positive" : "Zawsze jest tylko jeden obiekt companion w ramach klasy, nie obiektu. To singleton."
+      }
+    }
+  },
+  "quizzes" : {
+    "alkfjdhuas" : {
+      "lang" : "JAVA",
+      "level" : "EASY",
+      "questset" : "java1"
+    },
+    "asdfasdfff" : {
+      "lang" : "JAVA",
+      "level" : "AVERAGE",
+      "questset" : "java2"
+    },
+    "asdfdsffds" : {
+      "lang" : "KOTLIN",
+      "level" : "AVERAGE",
+      "questset" : "kotlin2"
+    },
+    "asdfsdafsa" : {
+      "lang" : "ANDROID",
+      "level" : "AVERAGE",
+      "questset" : "android2"
+    },
+    "gaegbvadfs" : {
+      "lang" : "ANDROID",
+      "level" : "EASY",
+      "questset" : "android1"
+    },
+    "hgdfhdfggg" : {
+      "lang" : "JAVA",
+      "level" : "HARD",
+      "questset" : "java3"
+    },
+    "treyrtyert" : {
+      "lang" : "KOTLIN",
+      "level" : "EASY",
+      "questset" : "kotlin1"
+    },
+    "werdsfvsdd" : {
+      "lang" : "KOTLIN",
+      "level" : "HARD",
+      "questset" : "kotlin3"
+    },
+    "werwerwerr" : {
+      "lang" : "ANDROID",
+      "level" : "HARD",
+      "questset" : "android3"
+    }
+  }
+}
